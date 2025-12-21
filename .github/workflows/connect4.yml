@@ -1,0 +1,21 @@
+name: Connect4
+on:
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+jobs:
+  connect4:
+    if: contains(github.event.comment.body, 'connect4')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v2
+      - name: Play Connect 4
+        uses: JonathanGin52/connect4-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          issue_id: ${{ github.event.issue.number }}
+          comment_body: ${{ github.event.comment.body }}
