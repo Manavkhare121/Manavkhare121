@@ -36,16 +36,35 @@
 </p>
 </td>
 <td width="40%" valign="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img 
+  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+  width="100%" 
+/>
 </td>
 </tr>
 </table>
 
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=appwrite,cpp,css,express,figma,git,html,mongodb,mysql,nodejs,postman,react,redis,sass,tailwind" />
+### 🧑‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,sass" />
 </p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,appwrite" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,figma" />
+</p>
+
 
 
 
@@ -57,5 +76,5 @@
 
 ### 🔥 Continuous Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavkhare121&background=161B22&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff&currStreakLabel=00F0FF&sideLabels=ffffff&sideNums=ffffff&hide_border=true" />
+ <img src="https://streak-stats.vercel.app/api?user=manavkhare121&background=161B22&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff&currStreakLabel=00F0FF&sideLabels=ffffff&sideNums=ffffff&hide_border=true"  />
 </p>
