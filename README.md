@@ -52,7 +52,7 @@
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind" />
 </p>
 
 ### 🗄️ Databases
